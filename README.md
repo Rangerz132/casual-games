@@ -1,6 +1,6 @@
 ## Description
 
-List of casual games I made using both Unity and BabylonJS as softwares with B2TGame. 
+List of casual games I made using both Unity and BabylonJS as softwares with B2TGame. Select a folder to see the game description and the gameplay.
 
 
 ## Objective
