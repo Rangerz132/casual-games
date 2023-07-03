@@ -8,7 +8,7 @@ Same is a thrilling, fast-paced match-3 game that will put your reflexes and str
 
 Speed is the key to success in Same, as players who swiftly make matches are rewarded with bigger awards. However, beware! Clicking on a rune that is not connected to at least three other runes will result in immediate defeat, adding an intense element of risk and challenge.Prepare to be mesmerized by the dazzling visual effects and addictive gameplay of Same.
 
-The game can be found on the [ONMO](https://https://play.onmo.com/) platform.
+The game can be found on the [ONMO](https://play.onmo.com/) platform.
 
 ### Technology
 

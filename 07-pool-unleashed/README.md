@@ -8,7 +8,7 @@ Pool Unleashed is an exhilarating arcade version of the timeless classic pool ga
 
 Experience the thrill of sinking balls into pockets with precise shots and impressive trick shots.
 
-The game can be found on the [ONMO](https://https://play.onmo.com/) platform.
+The game can be found on the [ONMO](https://play.onmo.com/) platform.
 
 ### Technology
 

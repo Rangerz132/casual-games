@@ -8,7 +8,7 @@ Poker Blitz is an exhilarating arcade game that takes the essence of traditional
 
 With limited time to act, players must carefully analyze their hand and choose between two options: Fold or All-in. The pressure is on as you navigate the high-stakes world of poker, making split-second choices to outwit your opponents and emerge victorious.
 
-The game can be found on the [ONMO](https://https://play.onmo.com/) platform.
+The game can be found on the [ONMO](https://play.onmo.com/) platform.
 
 ### Technology
 

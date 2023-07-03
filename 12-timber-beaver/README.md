@@ -10,6 +10,6 @@ However, the forest poses challenges in the form of branches that jut out from t
 
 ### Technology
 
-The game has been made using **Unity** (ECS-DOTS).
+The game has been made using **BabylonJS**.
 
 ![](Assets/gameplay.gif)

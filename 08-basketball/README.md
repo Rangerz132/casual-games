@@ -10,7 +10,7 @@ As the game progresses, the challenge intensifies with the introduction of aggre
 
 Immerse yourself in vibrant and immersive visuals as you strive to achieve new high scores.
 
-The game can be found on the [ONMO](https://https://play.onmo.com/) platform.
+The game can be found on the [ONMO](https://play.onmo.com/) platform.
 
 ### Technology
 
